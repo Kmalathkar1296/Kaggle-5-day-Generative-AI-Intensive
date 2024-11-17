@@ -1,5 +1,5 @@
 # 5-day-Generative-AI-Intensive
-🎒 Day-1’s Assignments
+##🎒 Day-1’s Assignments
 
 💡What You’ll Learn
 
