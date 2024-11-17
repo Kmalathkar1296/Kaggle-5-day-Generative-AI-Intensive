@@ -1,5 +1,5 @@
 # 5-day-Generative-AI-Intensive
-##🎒 Day-1’s Assignments
+🎒 **Day-1’s Assignments**
 
 💡What You’ll Learn
 
@@ -7,13 +7,13 @@ Today you’ll explore the evolution of LLMs, from transformers to techniques li
 
 The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts.
 
-🎒 Day-2’s Assignments
+🎒 **Day-2’s Assignment**
 
 💡 What You’ll Learn
 
 Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data. 
 
-🎒 Day-3’s Assignments
+🎒 **Day-3’s Assignment**
 
 💡 What You’ll Learn
 
@@ -21,7 +21,7 @@ Learn to build sophisticated AI agents by understanding their core components an
 
 The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
 
-🎒 Day-4’s Assignment
+🎒 **Day-4’s Assignment**
 
 💡 What You’ll Learn
 
@@ -29,7 +29,7 @@ In today’s reading, you’ll delve into the creation and application of specia
 
 In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
 
-🎒 Final Assignment
+🎒 **Final Assignment**
 
 💡 What You’ll Learn
 
